@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+trustpay.db
+uploads/*
+!uploads/.gitkeep
+.streamlit/secrets.toml
+.DS_Store
