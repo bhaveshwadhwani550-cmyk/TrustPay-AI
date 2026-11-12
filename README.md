@@ -128,9 +128,15 @@ From the project root directory, with your virtual environment activated:
 python -m streamlit run app.py
 ```
 
-Open the local URL printed by Streamlit, normally:
+
+Open the live deployed application:
+
+https://trustpay-ai-kgabwnr2cpvlqjp8htoadb.streamlit.app/
+
+To run the application locally, use:
 
 http://localhost:8501
+
 
 The SQLite database `trustpay.db` is created automatically when the application initializes.
 
